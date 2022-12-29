@@ -1,5 +1,5 @@
 # Hola, mi nombre es Néstor Liberato 👋
-### Back-End Developer
+### <p><em>👨🏻‍💻 Back-End Developer en <a href="https://diacorporate.com/">Grupo DIA</a></em></p>
 <!-- Meter imagencilla por aquí -->
 Soy Desarrollador Back-End desde hace algo más de 10 años.
 
@@ -11,12 +11,13 @@ En 2021 decido cambiar de aires y paso a formar parte de un equipo para el desar
 
 ### Tecnologías
 
-[![C](https://img.shields.io/badge/C/C++-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![ProC](https://img.shields.io/badge/Pro*C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![C](https://img.shields.io/badge/C_&_C++-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 </br>
 [![OracleSQL](https://img.shields.io/badge/Oracle_SQL-orange?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-lightgray?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-[![UnixShellScripting](https://img.shields.io/badge/Unix_Shell_Scripting-lightgray?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![UnixShellScripting](https://img.shields.io/badge/Unix_Shell_Scripting-181717?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 </br>
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -26,35 +27,35 @@ En 2021 decido cambiar de aires y paso a formar parte de un equipo para el desar
 
 ### Herramientas
 
-**Software Development**
+- Software Development
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=101010)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=101010)]()
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-darkblue?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=101010)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-red?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white&labelColor=101010)]()
 [![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white&labelColor=101010)]()
 
-**Metodología SDLC**
+- Metodología SDLC
 
 [![Agile](https://img.shields.io/badge/Agile-blue?style=for-the-badge&logo=Agile&logoColor=white&labelColor=101010)]()
 [![Scrum](https://img.shields.io/badge/Scrum-orange?style=for-the-badge&logo=Scrum&logoColor=white&labelColor=101010)]()
 [![Kanban](https://img.shields.io/badge/Kanban-red?style=for-the-badge&logo=Kanban&logoColor=white&labelColor=101010)]()
 
-**Software Engineering**
+- Software Engineering
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 [![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)]()
 
-**Control de Versiones**
+- Control de Versiones
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![SVN](https://img.shields.io/badge/SVN-019733?style=for-the-badge&logo=svn&logoColor=white&labelColor=101010)]()
 
-## Aprendiendo
+## 📖 Aprendiendo
 
 ### Tecnologías
 
 [![ReactJS](https://img.shields.io/badge/React_JS-1DA1F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-0A3069?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ### Herramientas
 [![Notion](https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
@@ -67,3 +68,7 @@ En 2021 decido cambiar de aires y paso a formar parte de un equipo para el desar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nestor_Liberato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nestor-liberato-a34a5682)
 <!--[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)-->
 <!--[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)-->
+
+## Creditos
+<!-- - Las estadísticas son generadas usando [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)-->
+- Los iconos/insignias están proporcionadas por [Shields.io](https://shields.io/)

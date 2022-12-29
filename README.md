@@ -1,62 +1,69 @@
-### Hi, I'm Néstor Liberato 👋
+# Hola, mi nombre es Néstor Liberato 👋
+### Back-End Developer
+<!-- Meter imagencilla por aquí -->
+Soy Desarrollador Back-End desde hace algo más de 10 años.
 
-<hr>
+Empecé a mediados del 2012 en la empresa en la que realicé las prácticas del Grado Superior de Desarrollo de Aplicaciones Informáticas en un cliente dedicado a la banca. Desde entonces y hasta 2021 he estado unido al mismo cliente realizando el desarrollo y mantenimiento del back-end de las bancas electrónicas los distintos bancos afiliados, trabajando con Pro*C, Oracle SQl y Unix Shell Scripting. Otro trabajo que realizaba para el cliente era el desarrollo y mantenimiento de procesos planificados en Unix Shell Scripting.
 
-### 💻:keyboard: Languages and Tools
+En 2021 decido cambiar de aires y paso a formar parte de un equipo para el desarrollo de una aplicación en el que están involucrados los países afiliados al Acuerdo de Schengen. Tras acabar mi participación y no encontrarme mi empresa acomodo en ningún otro proyecto, vuelvo a cambiar de aires a mediados de 2022. Mientras tanto, comienzo a formarme por cuenta propia, virando del Back-End al Front-End.
 
-### Languages
+## 💻:keyboard: Tecnologías y Herramientas
 
-**Back-End:**
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/liberodev)](https://github.com/liberodev)
+### Tecnologías
 
-**Front-End:**
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/liberodev)](https://github.com/liberodev)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/liberodev)](https://github.com/liberodev)
-[![Scss](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=white&link=https://github.com/liberodev)](https://github.com/liberodev)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/liberodev)](https://github.com/liberodev)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/liberodev)](https://github.com/liberodev)
-  
-**SQL:**
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/liberodev)
-[![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&logoColor=white&link=https://github.com/liberodev)](https://github.com/liberodev)
+[![C](https://img.shields.io/badge/C/C++-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+</br>
+[![OracleSQL](https://img.shields.io/badge/Oracle_SQL-orange?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-lightgray?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+[![UnixShellScripting](https://img.shields.io/badge/Unix_Shell_Scripting-lightgray?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+</br>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Scss](https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 
-### Tools
+### Herramientas
 
-**Software Development:**
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/liberodev "Visual Studio")](https://github.com/liberodev)
-[![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/liberodev "Eclipse IDE")](https://github.com/liberodev)
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/liberodev "IntelliJ IDEA")](https://github.com/liberodev)
-[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/liberodev "Vim")](https://github.com/liberodev)
+**Software Development**
 
-**SDLC**
-[![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/liberodev "Agile")](https://github.com/liberodev) 
-[![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/liberodev "Scrum")](https://github.com/liberodev)
-[![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/liberodev "Kanban")](https://github.com/liberodev)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=101010)]()
+[![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-darkblue?style=for-the-badge&logo=Eclipse-IDE&logoColor=white&labelColor=101010)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-red?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white&labelColor=101010)]()
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white&labelColor=101010)]()
 
-**Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/liberodev)](https://github.com/liberodev)
+**Metodología SDLC**
 
-**Version Control:**
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/liberodev)](https://github.com/liberodev)
+[![Agile](https://img.shields.io/badge/Agile-blue?style=for-the-badge&logo=Agile&logoColor=white&labelColor=101010)]()
+[![Scrum](https://img.shields.io/badge/Scrum-orange?style=for-the-badge&logo=Scrum&logoColor=white&labelColor=101010)]()
+[![Kanban](https://img.shields.io/badge/Kanban-red?style=for-the-badge&logo=Kanban&logoColor=white&labelColor=101010)]()
 
-*click on some badges may redirect you to the corresponding repositories
+**Software Engineering**
 
-- 🔭 I’m currently working on <strong>Back-End Development</strong>.
-- 🌱 I’m currently learning <strong>React JS</strong> and <strong>Python</strong>.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
+[![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)]()
 
-<hr>
+**Control de Versiones**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![SVN](https://img.shields.io/badge/SVN-019733?style=for-the-badge&logo=svn&logoColor=white&labelColor=101010)]()
+
+## Aprendiendo
+
+### Tecnologías
+
+[![ReactJS](https://img.shields.io/badge/React_JS-1DA1F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
+### Herramientas
+[![Notion](https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
 
 ## Encuéntrame en:
 
-[![Gmail](https://img.shields.io/badge/Gmail-nestitor87@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:nestitor87@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@nes__87-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/nes__87)
-[![Instagram](https://img.shields.io/badge/Instagram-@nes__87-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nes__87)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nestor_Liberato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nestor-liberato-a34a5682)
+[![Gmail](https://img.shields.io/badge/nestitor87@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:nestitor87@gmail.com)<br>
+[![Twitter](https://img.shields.io/badge/@nes____87-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/nes__87)
+[![Instagram](https://img.shields.io/badge/@nes____87-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nes__87)
+[![LinkedIn](https://img.shields.io/badge/Nestor_Liberato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nestor-liberato-a34a5682)
 <!--[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)-->
 <!--[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)-->

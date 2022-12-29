@@ -61,9 +61,9 @@ En 2021 decido cambiar de aires y paso a formar parte de un equipo para el desar
 
 ## Encuéntrame en:
 
-[![Gmail](https://img.shields.io/badge/nestitor87@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:nestitor87@gmail.com)<br>
-[![Twitter](https://img.shields.io/badge/@nes____87-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/nes__87)
-[![Instagram](https://img.shields.io/badge/@nes____87-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nes__87)
-[![LinkedIn](https://img.shields.io/badge/Nestor_Liberato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nestor-liberato-a34a5682)
+[![Gmail](https://img.shields.io/badge/Gmail-nestitor87@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:nestitor87@gmail.com)<br>
+[![Twitter](https://img.shields.io/badge/Twitter-@nes____87-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/nes__87)
+[![Instagram](https://img.shields.io/badge/Instagram-@nes____87-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nes__87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nestor_Liberato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nestor-liberato-a34a5682)
 <!--[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)-->
 <!--[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)-->

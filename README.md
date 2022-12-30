@@ -60,7 +60,11 @@ En 2021 decido cambiar de aires y paso a formar parte de un equipo para el desar
 ### Herramientas
 [![Notion](https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
 
-## Encuéntrame en:
+## 🔝 Top lenguajes en mi repositorio
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberodev&langs_count=10&theme=tokyonight&layout=compact" alt="liberodev :: Top lenguajes" /></p>
+
+## 🔍 Encuéntrame en:
 
 [![Gmail](https://img.shields.io/badge/Gmail-nestitor87@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:nestitor87@gmail.com)<br>
 [![Twitter](https://img.shields.io/badge/Twitter-@nes____87-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/nes__87)

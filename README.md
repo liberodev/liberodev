@@ -55,6 +55,7 @@ En 2021 decido cambiar de aires y paso a formar parte de un equipo para el desar
 ### Tecnologías
 
 [![Node.js](https://img.shields.io/badge/Node.js-019733?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
+[![Express](https://img.shields.io/badge/Express-A8B9CC?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 [![ReactJS](https://img.shields.io/badge/React_JS-1DA1F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-019733?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-0A3069?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
